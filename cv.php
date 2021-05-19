@@ -142,19 +142,19 @@
             
             <div class="comp">
                 <p>HTML / CSS / JavaScript</p>
-                <div class="conteneur-barre"><span class="barre c40"></span></div>
-            </div>
-            <div class="comp">
-                <p>PHP</p>
                 <div class="conteneur-barre"><span class="barre c50"></span></div>
             </div>
             <div class="comp">
-                <p>C#</p>
+                <p>PHP</p>
                 <div class="conteneur-barre"><span class="barre c65"></span></div>
             </div>
             <div class="comp">
+                <p>C#</p>
+                <div class="conteneur-barre"><span class="barre c75"></span></div>
+            </div>
+            <div class="comp">
                 <p>SQL </p>
-                <div class="conteneur-barre"><span class="barre c30"></span></div>
+                <div class="conteneur-barre"><span class="barre c40"></span></div>
             </div>
         </div>
         <div class="contact">
